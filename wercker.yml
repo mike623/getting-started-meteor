@@ -1,4 +1,4 @@
-box: mies/meteor
+box: ulexus/meteor
 build:
   steps:
     - script:
