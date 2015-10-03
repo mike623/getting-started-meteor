@@ -1,4 +1,4 @@
-box: ulexus/meteor
+box: exkazuu/meteor@0.0.3
 build:
   steps:
     - script:
