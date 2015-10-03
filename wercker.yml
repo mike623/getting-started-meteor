@@ -1,4 +1,4 @@
-box: exkazuu/meteor
+box: meteorhacks/meteord
 build:
   steps:
     - script:
